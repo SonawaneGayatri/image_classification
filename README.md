@@ -1,3 +1,3 @@
 # image_classification
-## This is project on image classification of fruit and vegetable web based 
+## This is project on image classification flower web based 
 ## enter name and image is display
